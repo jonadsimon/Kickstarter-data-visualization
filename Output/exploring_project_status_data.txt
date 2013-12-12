@@ -1,0 +1,44 @@
+First 5 project IDs: [ 52687 197154 254501 472063 522769]
+Last 5 project IDs: [2145930079 2146732039 2146926239 2147176559 2147300055]
+
+First 5 project Goals: [  1200   1450 125000 150000   2000]
+Last 5 project Goals: [20000 53000  3000  3500  3000]
+
+First 5 project States: [1 1 0 1 1]
+Last 5 project States: [1 0 0 1 0]
+
+First 5 project Launches: [1353544772 1357922977 1359143715 1351211898 1364649484]
+Last 5 project Launches: [1366134519 1352092336 1354579107 1360270798 1363651732]
+
+First 5 project Deadlines: [1356136772 1360514977 1362513315 1356399498 1367241484]
+Last 5 project Deadlines: [1368726519 1356844336 1355183907 1362171598 1367539732]
+
+####################################################################################################
+
+First 5 Times of project 1: [ 0.        0.001001  0.002002  0.003003  0.004004]
+Last 5 Times of project 1: [ 0.995996  0.996997  0.997998  0.998999  1.      ]
+First 5 Money Pledges of project 1: [ 0.      0.0625  0.0625  0.0625  0.0625]
+Last 5 Money Pledges of project 1: [ 1.00083333  1.00083333  1.00083333  1.00083333  1.00083333]
+First 5 Backer Counts of project 1: [ 0.  1.  1.  1.  1.]
+Last 5 Backer Counts of project 1: [ 25.  25.  25.  25.  25.]
+
+First 5 Times of project 2: [ 0.        0.001001  0.002002  0.003003  0.004004]
+Last 5 Times of project 2: [ 0.995996  0.996997  0.997998  0.998999  1.      ]
+First 5 Money Pledges of project 2: [ 0.          0.02068966  0.02758621  0.02758621  0.02758621]
+Last 5 Money Pledges of project 2: [ 1.08895862  1.08895862  1.08895862  1.08895862  1.0919437 ]
+First 5 Backer Counts of project 2: [ 0.  2.  3.  3.  3.]
+Last 5 Backer Counts of project 2: [ 78.          78.          78.          78.          78.28855721]
+
+First 5 Times of project -1: [ 0.        0.001001  0.002002  0.003003  0.004004]
+Last 5 Times of project -1: [ 0.995996  0.996997  0.997998  0.998999  1.      ]
+First 5 Money Pledges of project -1: [ 0.          0.          0.00166667  0.00166667  0.00166667]
+Last 5 Money Pledges of project -1: [ 0.56333333  0.56333333  0.56333333  0.56333333  0.56333333]
+First 5 Backer Counts of project -1: [ 0.  0.  1.  1.  1.]
+Last 5 Backer Counts of project -1: [ 36.  36.  36.  36.  36.]
+
+First 5 Times of project -2: [ 0.        0.001001  0.002002  0.003003  0.004004]
+Last 5 Times of project -2: [ 0.995996  0.996997  0.997998  0.998999  1.      ]
+First 5 Money Pledges of project -2: [ 0.          0.00288094  0.00942857  0.00942857  0.00942857]
+Last 5 Money Pledges of project -2: [ 1.          1.          1.          1.          1.00409524]
+First 5 Backer Counts of project -2: [ 0.         0.5041639  1.         1.         1.       ]
+Last 5 Backer Counts of project -2: [ 42.          42.          42.          42.          42.71666667]

@@ -1,0 +1,34 @@
+new-host-2:~ Macbook$ cd "/Users/Macbook/Desktop/Data Analysis Projects/Kickstart Monetary Flow Visualization/Input/kickstarter-etter-cosn2013"
+new-host-2:kickstarter-etter-cosn2013 Macbook$ python example.py "./"
+Loading projects...
+Loading statuses...
+Loading tweets...
+Loading graph...
+16042 projects loaded.
+##########
+First project:
+	Id: 52687
+	Goal: 1200
+	State: successful
+	Launch: 1353544772
+	Deadline: 1356136772
+##########
+10th status of the first project:
+	Time: 0.00900900900897
+	True time: 1353544772.0
+	Pledged money: 0.0625
+	Number of backers: 1.0
+##########
+200th sample of tweets of the 20th project:
+	Time: 1359840921.37
+	Number of tweets: 3.31485389593
+	Number of replies: 0.31485389593
+	Number of retweets: 1.0
+	Estimated number of backers: 0.0
+	Number of users who tweeted: 2.31485389593
+##########
+Backers of project 52687:
+[-1488102L, -2303919L, -2832624L, -2832625L, -2832626L, -2832628L, -2832629L, -2832630L, -2832631L, -2832632L, -4445071L, -18654491L, -18694138L, -18944786L, -18944787L, -18944791L, -18944794L, -18944797L, -18944798L, -18944799L, -18944800L, -19286728L, -20869354L, -30147256L, -30147261L]
+Projects backed by user -1488102:
+[1737601040L, 1419344530L, 1122778175L, 1971952294L, 2129274269L, 2118447081L, 3029682L, 1496501106L, 320162586L, 781138140L, 1384157369L, 1106641900L, 1344358377L, 986171327L, 1084942816L, 52687L, 1467140513L]
+
