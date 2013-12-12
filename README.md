@@ -7,7 +7,6 @@ This project involves analyzing and visualizing the behavior of the 16042 Kickst
   * "extract_project_subset.py" - converts the project data from cPickle dump file to a numpy array file
   * "linear_total_money_histograms.py" - generates histograms of the amount of money the campaigns raised given as a percent of their goal amount; this generated the image "Linear_Histogram_250.png"
   * "success_probability_given_total_money.py" - analyzes the relationship between the percent of campaign goal raised, and the probability of campaign success; this generated the image "success_probability_vs_percent_goal_earned.png"
-
 * Output:
   * "Calling "example.py" from Terminal" - shows the output from running the file "example.py", which came packaged with the data set
   * "exploring_project_status_data.txt" - more closely examines the values stored in the 'projects' numpy array
